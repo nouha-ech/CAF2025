@@ -1,7 +1,7 @@
 # 🏆 AFCON 2025 Dashboard – Streamlit App
 
 Ce projet est une application **Streamlit** interactive qui présente un tableau de bord complet pour la **Coupe d’Afrique des Nations 2025 (AFCON)** organisée au Maroc.
-
+![Screenshot](5.jpg)
 ---
 
 ## 🚀 Fonctionnalités
@@ -14,6 +14,10 @@ Ce projet est une application **Streamlit** interactive qui présente un tableau
   - Force des groupes (Top 3 joueurs par groupe)  
   - Timeline Gantt des matchs  
 - **Interface moderne** avec thèmes CSS personnalisés
+![Screenshot](4.jpg)
+![Screenshot](3.jpg)
+![Screenshot](2.jpg)
+![Screenshot](1.jpg)
 
 ---
 
